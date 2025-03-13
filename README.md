@@ -7,14 +7,14 @@ A **Streamlit-based** web application that allows users to upload CSV files and 
 
 ## 🖼 Screenshots
 ### 📌 Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/home%20page.png)
 
 ### 📌 File Upload & Data Preview
-![File Upload](screenshots/fileuploaded.png)
+![File Upload](screenshots/file%20uploaded.png)
 
 ### 📌 Data Visualization
-![Data Visualization](screenshots/choosinggraph.png)
-![Data Visualization](screenshots/generatedgraph.png)
+![Data Visualization](screenshots/choosing%20graph.png)
+![Data Visualization](screenshots/generated%20graph.png)
 
 ---
 
